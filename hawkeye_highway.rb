@@ -80,9 +80,7 @@ manifest.sequences << sequence
 # Iterate over Files > Add Canvas with Image for each File
 Dir.glob("#{parent_id}/**").each do |dir|
   file_id = dir.split("/").last
-  puts file_id
   file_contents = JSON.parse(File.read(dir + "/info.json"))
-  puts file_contents["@id"]
 
   canvas = IIIF::Presentation::Canvas.new()
 
@@ -93,7 +91,7 @@ Dir.glob("#{parent_id}/**").each do |dir|
   # the spec
   canvas.width = file_contents["width"]
   canvas.height = file_contents["height"]
-  canvas.label = children.detect {|c| c[:id] == file_id }
+  canvas.label = children.detect {|c| c[:id] == file_id }[:title]
 
   service = IIIF::Presentation::Resource.new('@context' => 'http://iiif.io/api/image/2/context.json', 'profile' => 'http://iiif.io/api/image/2/level2.json', '@id' => file_contents["@id"])
 

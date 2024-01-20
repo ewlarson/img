@@ -81,7 +81,7 @@ manifest.sequences << sequence
 
 # Iterate over Files > Add Canvas with Image for each File
 Dir.glob("#{parent_id}/**").each do |dir|
-  next if dir == "manifest.json"
+  next if dir == "#{parent_id}/manifest.json"
   file_id = dir.split("/").last
   file_contents = JSON.parse(File.read(dir + "/info.json"))
 
@@ -108,7 +108,13 @@ Dir.glob("#{parent_id}/**").each do |dir|
   image.height = canvas.height
   image.service = service
 
-  images = IIIF::Presentation::Resource.new('@type' => 'oa:Annotation', 'motivation' => 'sc:painting', '@id' => "#{canvas['@id']}/images", 'resource' => image)
+  images = IIIF::Presentation::Resource.new(
+    '@type' => 'oa:Annotation', 
+    'motivation' => 'sc:painting', 
+    '@id' => "#{canvas['@id']}/images", 
+    'resource' => image,
+    'on' => file_contents["@id"]
+  )
 
   canvas.images << images
 

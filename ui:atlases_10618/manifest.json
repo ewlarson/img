@@ -1,0 +1,3100 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ewlarson.github.io/img/ui:atlases_10618/manifest",
+  "@type": "sc:Manifest",
+  "label": "Huebinger's map and guide for Hawkeye Highway: Sioux City to Dubuque, 1912",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Huebinger's map and guide for Hawkeye Highway: Sioux City to Dubuque, 1912"
+    },
+    {
+      "label": "Creator",
+      "value": "Huebinger, M. (Melchior)"
+    },
+    {
+      "label": "Date Created",
+      "value": "1912"
+    },
+    {
+      "label": "Publisher",
+      "value": "Iowa Publishing Co."
+    },
+    {
+      "label": "Description",
+      "value": "Includes advertisements and index to towns."
+    },
+    {
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "label": "Subjects: Library of Congress Thesaurus for Graphic Materials",
+      "value": "Roads"
+    },
+    {
+      "label": "Subject: Time",
+      "value": "1910-1920"
+    },
+    {
+      "label": "Country",
+      "value": "United States"
+    },
+    {
+      "label": "State",
+      "value": "Iowa"
+    },
+    {
+      "label": "Town",
+      "value": "Sioux City\nDubuque"
+    },
+    {
+      "label": "Physical Description",
+      "value": "1 atlas (96 pages): illustrated, 48 maps; 12 x 20 cm."
+    },
+    {
+      "label": "Host institution",
+      "value": "State Historical Society of Iowa (Iowa City)\nState Historical Society of Iowa (Des Moines)"
+    },
+    {
+      "label": "Digitization Specifications",
+      "value": "Scanned with Zeutschel OS 12000 scanner at 300 ppi, 24-bit color. Archival tiff image available."
+    },
+    {
+      "label": "Date Digital",
+      "value": "2011-10"
+    },
+    {
+      "label": "Rights Management",
+      "value": "Material in the public domain. No restrictions on use."
+    },
+    {
+      "label": "Contact Information",
+      "value": "Contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/sc/contact/ or Contact the State Historical Society of Iowa: libraryst@uiowa.edu"
+    },
+    {
+      "label": "File name",
+      "value": "index.cpd"
+    },
+    {
+      "label": "Item Type (DCMI)",
+      "value": "Text\nStill image"
+    },
+    {
+      "label": "Item Type (AAT)",
+      "value": "advertisements\nmaps (documents)\natlases"
+    },
+    {
+      "label": "Item Type (IMT)",
+      "value": "jp2"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://ewlarson.github.io/img/ui:atlases_10618/manifest/seq/",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10518~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2401,
+          "height": 1604,
+          "label": {
+            "title": "Cover",
+            "id": "ui:atlases_10518",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10518~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10518~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10518~JP2~~default_public/full/2401,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2401,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10518~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10519~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2263,
+          "height": 1603,
+          "label": {
+            "title": "Inside front cover",
+            "id": "ui:atlases_10519",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10519~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10519~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10519~JP2~~default_public/full/2263,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2263,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10519~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10520~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2475,
+          "height": 1603,
+          "label": {
+            "title": "Midland Motor Co. advertisement",
+            "id": "ui:atlases_10520",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10520~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10520~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10520~JP2~~default_public/full/2475,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2475,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10520~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10521~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2337,
+          "height": 1583,
+          "label": {
+            "title": "Velie Motor Vehicle Company ad",
+            "id": "ui:atlases_10521",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10521~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10521~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10521~JP2~~default_public/full/2337,1583/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2337,
+                "height": 1583,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10521~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10522~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2375,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10522",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10522~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10522~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10522~JP2~~default_public/full/2375,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2375,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10522~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10523~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2360,
+          "height": 1583,
+          "label": {
+            "title": "Ignition plugs advertisement",
+            "id": "ui:atlases_10523",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10523~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10523~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10523~JP2~~default_public/full/2360,1583/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2360,
+                "height": 1583,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10523~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10524~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2360,
+          "height": 1604,
+          "label": {
+            "title": "Acme advertisement",
+            "id": "ui:atlases_10524",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10524~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10524~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10524~JP2~~default_public/full/2360,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2360,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10524~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10525~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2431,
+          "height": 1582,
+          "label": {
+            "title": "Diamond Manufacturing Company advertisement",
+            "id": "ui:atlases_10525",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10525~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10525~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10525~JP2~~default_public/full/2431,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2431,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10525~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10526~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2462,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10526",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10526~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10526~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10526~JP2~~default_public/full/2462,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2462,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10526~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10527~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2431,
+          "height": 1582,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10527",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10527~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10527~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10527~JP2~~default_public/full/2431,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2431,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10527~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10528~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2462,
+          "height": 1604,
+          "label": {
+            "title": "Index to towns",
+            "id": "ui:atlases_10528",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10528~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10528~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10528~JP2~~default_public/full/2462,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2462,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10528~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10529~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2431,
+          "height": 1582,
+          "label": {
+            "title": "Foreword",
+            "id": "ui:atlases_10529",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10529~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10529~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10529~JP2~~default_public/full/2431,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2431,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10529~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10530~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2462,
+          "height": 1604,
+          "label": {
+            "title": "Foreword continued",
+            "id": "ui:atlases_10530",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10530~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10530~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10530~JP2~~default_public/full/2462,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2462,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10530~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10531~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2431,
+          "height": 1640,
+          "label": {
+            "title": "Sioux City information",
+            "id": "ui:atlases_10531",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10531~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10531~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10531~JP2~~default_public/full/2431,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2431,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10531~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10532~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2462,
+          "height": 1603,
+          "label": {
+            "title": "Le Mars, Marcus information",
+            "id": "ui:atlases_10532",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10532~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10532~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10532~JP2~~default_public/full/2462,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2462,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10532~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10533~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2431,
+          "height": 1640,
+          "label": {
+            "title": "Cherokee, Alta information",
+            "id": "ui:atlases_10533",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10533~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10533~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10533~JP2~~default_public/full/2431,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2431,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10533~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10534~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2462,
+          "height": 1603,
+          "label": {
+            "title": "Storm Lake, Fonda information",
+            "id": "ui:atlases_10534",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10534~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10534~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10534~JP2~~default_public/full/2462,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2462,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10534~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10535~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2490,
+          "height": 1640,
+          "label": {
+            "title": "Fort Dodge information",
+            "id": "ui:atlases_10535",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10535~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10535~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10535~JP2~~default_public/full/2490,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2490,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10535~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10536~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1603,
+          "label": {
+            "title": "Waterloo Construction Co advertisement",
+            "id": "ui:atlases_10536",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10536~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10536~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10536~JP2~~default_public/full/2441,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10536~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10537~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2490,
+          "height": 1640,
+          "label": {
+            "title": "Cedar Falls, Waterloo map",
+            "id": "ui:atlases_10537",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10537~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10537~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10537~JP2~~default_public/full/2490,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2490,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10537~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10538~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1603,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10538",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10538~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10538~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10538~JP2~~default_public/full/2441,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10538~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10539~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2490,
+          "height": 1640,
+          "label": {
+            "title": "Waterloo Auto and Supply advertisement",
+            "id": "ui:atlases_10539",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10539~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10539~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10539~JP2~~default_public/full/2490,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2490,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10539~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10540~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1603,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10540",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10540~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10540~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10540~JP2~~default_public/full/2441,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10540~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10541~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2490,
+          "height": 1640,
+          "label": {
+            "title": "Waterloo map",
+            "id": "ui:atlases_10541",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10541~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10541~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10541~JP2~~default_public/full/2490,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2490,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10541~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10542~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1603,
+          "label": {
+            "title": "Ivory Auto Oil advertisement",
+            "id": "ui:atlases_10542",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10542~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10542~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10542~JP2~~default_public/full/2441,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10542~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10543~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2490,
+          "height": 1640,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10543",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10543~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10543~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10543~JP2~~default_public/full/2490,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2490,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10543~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10544~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10544",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10544~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10544~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10544~JP2~~default_public/full/2441,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10544~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10545~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2490,
+          "height": 1640,
+          "label": {
+            "title": "Waterloo accommodations",
+            "id": "ui:atlases_10545",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10545~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10545~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10545~JP2~~default_public/full/2490,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2490,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10545~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10546~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10546",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10546~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10546~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10546~JP2~~default_public/full/2441,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10546~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10547~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2541,
+          "height": 1640,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10547",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10547~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10547~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10547~JP2~~default_public/full/2541,1640/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2541,
+                "height": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10547~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10548~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2462,
+          "height": 1604,
+          "label": {
+            "title": "East of Waterloo map",
+            "id": "ui:atlases_10548",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10548~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10548~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10548~JP2~~default_public/full/2462,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2462,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10548~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10549~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2491,
+          "height": 1582,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10549",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10549~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10549~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10549~JP2~~default_public/full/2491,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2491,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10549~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10550~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2513,
+          "height": 1603,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10550",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10550~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10550~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10550~JP2~~default_public/full/2513,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2513,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10550~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10551~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2491,
+          "height": 1582,
+          "label": {
+            "title": "Rural Blackhawk County map",
+            "id": "ui:atlases_10551",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10551~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10551~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10551~JP2~~default_public/full/2491,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2491,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10551~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10552~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2512,
+          "height": 1604,
+          "label": {
+            "title": "Merrill map",
+            "id": "ui:atlases_10552",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10552~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10552~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10552~JP2~~default_public/full/2512,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2512,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10552~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10553~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1582,
+          "label": {
+            "title": "Le Mars map",
+            "id": "ui:atlases_10553",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10553~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10553~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10553~JP2~~default_public/full/2492,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10553~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10554~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2512,
+          "height": 1604,
+          "label": {
+            "title": "Remsen map",
+            "id": "ui:atlases_10554",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10554~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10554~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10554~JP2~~default_public/full/2512,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2512,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10554~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10555~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1583,
+          "label": {
+            "title": "Marcus map",
+            "id": "ui:atlases_10555",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10555~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10555~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10555~JP2~~default_public/full/2492,1583/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1583,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10555~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10556~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2512,
+          "height": 1604,
+          "label": {
+            "title": "Meriden, Cleghorn, Cherokee map",
+            "id": "ui:atlases_10556",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10556~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10556~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10556~JP2~~default_public/full/2512,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2512,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10556~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10557~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1582,
+          "label": {
+            "title": "Cherokee map",
+            "id": "ui:atlases_10557",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10557~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10557~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10557~JP2~~default_public/full/2492,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10557~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10558~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2562,
+          "height": 1604,
+          "label": {
+            "title": "Aurelia map",
+            "id": "ui:atlases_10558",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10558~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10558~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10558~JP2~~default_public/full/2562,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2562,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10558~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10559~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1582,
+          "label": {
+            "title": "Alta map and advertisements",
+            "id": "ui:atlases_10559",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10559~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10559~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10559~JP2~~default_public/full/2492,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10559~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10560~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2468,
+          "height": 1604,
+          "label": {
+            "title": "Storm Lake map",
+            "id": "ui:atlases_10560",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10560~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10560~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10560~JP2~~default_public/full/2468,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10560~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10561~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1582,
+          "label": {
+            "title": "Sulphur Springs map",
+            "id": "ui:atlases_10561",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10561~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10561~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10561~JP2~~default_public/full/2492,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10561~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10562~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2468,
+          "height": 1604,
+          "label": {
+            "title": "Newell map",
+            "id": "ui:atlases_10562",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10562~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10562~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10562~JP2~~default_public/full/2468,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10562~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10563~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1582,
+          "label": {
+            "title": "Fonda map",
+            "id": "ui:atlases_10563",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10563~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10563~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10563~JP2~~default_public/full/2492,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10563~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10564~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2468,
+          "height": 1604,
+          "label": {
+            "title": "Pomeroy map",
+            "id": "ui:atlases_10564",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10564~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10564~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10564~JP2~~default_public/full/2468,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10564~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10565~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1582,
+          "label": {
+            "title": "Pomeroy, Manson map and advertisements",
+            "id": "ui:atlases_10565",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10565~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10565~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10565~JP2~~default_public/full/2492,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10565~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10566~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2467,
+          "height": 1604,
+          "label": {
+            "title": "Manson map",
+            "id": "ui:atlases_10566",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10566~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10566~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10566~JP2~~default_public/full/2467,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2467,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10566~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10567~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1582,
+          "label": {
+            "title": "Barnum, Ft. Dodge map",
+            "id": "ui:atlases_10567",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10567~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10567~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10567~JP2~~default_public/full/2492,1582/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1582,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10567~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10568~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1603,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10568",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10568~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10568~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10568~JP2~~default_public/full/2441,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10568~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10569~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1626,
+          "label": {
+            "title": "Fort Dodge map",
+            "id": "ui:atlases_10569",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10569~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10569~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10569~JP2~~default_public/full/2492,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10569~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10570~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1603,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10570",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10570~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10570~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10570~JP2~~default_public/full/2441,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10570~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10571~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1626,
+          "label": {
+            "title": "Webster County, Hamilton County map",
+            "id": "ui:atlases_10571",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10571~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10571~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10571~JP2~~default_public/full/2492,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10571~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10572~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1603,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10572",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10572~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10572~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10572~JP2~~default_public/full/2441,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10572~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10573~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1626,
+          "label": {
+            "title": "Webster City map",
+            "id": "ui:atlases_10573",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10573~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10573~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10573~JP2~~default_public/full/2492,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10573~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10574~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1604,
+          "label": {
+            "title": "Blairsburg map and advertisements",
+            "id": "ui:atlases_10574",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10574~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10574~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10574~JP2~~default_public/full/2441,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10574~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10575~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1626,
+          "label": {
+            "title": "Williams, Wilke map",
+            "id": "ui:atlases_10575",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10575~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10575~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10575~JP2~~default_public/full/2492,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10575~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10576~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 1604,
+          "label": {
+            "title": "Alden, Iowa Falls map",
+            "id": "ui:atlases_10576",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10576~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10576~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10576~JP2~~default_public/full/2441,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10576~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10577~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2491,
+          "height": 1627,
+          "label": {
+            "title": "Iowa Falls map and advertisements",
+            "id": "ui:atlases_10577",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10577~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10577~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10577~JP2~~default_public/full/2491,1627/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2491,
+                "height": 1627,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10577~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10578~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1603,
+          "label": {
+            "title": "East of Iowa Falls map",
+            "id": "ui:atlases_10578",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10578~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10578~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10578~JP2~~default_public/full/2440,1603/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1603,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10578~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10579~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2491,
+          "height": 1627,
+          "label": {
+            "title": "Ackley map",
+            "id": "ui:atlases_10579",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10579~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10579~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10579~JP2~~default_public/full/2491,1627/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2491,
+                "height": 1627,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10579~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10580~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Austinville map",
+            "id": "ui:atlases_10580",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10580~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10580~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10580~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10580~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10581~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1626,
+          "label": {
+            "title": "Aplington, Parkersburg map",
+            "id": "ui:atlases_10581",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10581~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10581~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10581~JP2~~default_public/full/2492,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10581~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10582~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Parkersburg, Sinclair map",
+            "id": "ui:atlases_10582",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10582~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10582~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10582~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10582~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10583~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 1626,
+          "label": {
+            "title": "New Hartford, Benson, Cedar Falls map",
+            "id": "ui:atlases_10583",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10583~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10583~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10583~JP2~~default_public/full/2492,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10583~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10584~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Waterloo Construction Co. advertisement",
+            "id": "ui:atlases_10584",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10584~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10584~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10584~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10584~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10585~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Cedar Falls, Waterloo map",
+            "id": "ui:atlases_10585",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10585~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10585~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10585~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10585~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10586~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10586",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10586~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10586~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10586~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10586~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10587~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Waterloo Auto and Supply Company advertisement",
+            "id": "ui:atlases_10587",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10587~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10587~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10587~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10587~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10588~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10588",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10588~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10588~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10588~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10588~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10589~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Waterloo map",
+            "id": "ui:atlases_10589",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10589~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10589~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10589~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10589~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10590~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Waterloo Chemical Works advertisement",
+            "id": "ui:atlases_10590",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10590~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10590~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10590~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10590~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10591~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10591",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10591~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10591~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10591~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10591~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10592~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10592",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10592~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10592~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10592~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10592~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10593~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Waterloo accommodations",
+            "id": "ui:atlases_10593",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10593~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10593~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10593~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10593~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10594~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10594",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10594~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10594~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10594~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10594~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10595~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10595",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10595~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10595~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10595~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10595~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10596~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Waterloo map",
+            "id": "ui:atlases_10596",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10596~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10596~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10596~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10596~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10597~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10597",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10597~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10597~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10597~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10597~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10598~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2440,
+          "height": 1604,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10598",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10598~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10598~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10598~JP2~~default_public/full/2440,1604/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2440,
+                "height": 1604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10598~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10599~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1627,
+          "label": {
+            "title": "Black Hawk County east of Waterloo map",
+            "id": "ui:atlases_10599",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10599~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10599~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10599~JP2~~default_public/full/2534,1627/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1627,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10599~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10600~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2411,
+          "height": 1626,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10600",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10600~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10600~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10600~JP2~~default_public/full/2411,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2411,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10600~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10601~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1627,
+          "label": {
+            "title": "Jesup map",
+            "id": "ui:atlases_10601",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10601~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10601~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10601~JP2~~default_public/full/2534,1627/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1627,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10601~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10602~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2411,
+          "height": 1626,
+          "label": {
+            "title": "Mason Motor Co. advertisement",
+            "id": "ui:atlases_10602",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10602~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10602~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10602~JP2~~default_public/full/2411,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2411,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10602~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10603~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1627,
+          "label": {
+            "title": "Independence map",
+            "id": "ui:atlases_10603",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10603~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10603~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10603~JP2~~default_public/full/2534,1627/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1627,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10603~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10604~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2411,
+          "height": 1626,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10604",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10604~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10604~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10604~JP2~~default_public/full/2411,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2411,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10604~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10605~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Winthrop map",
+            "id": "ui:atlases_10605",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10605~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10605~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10605~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10605~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10606~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2411,
+          "height": 1626,
+          "label": {
+            "title": "Masonville map",
+            "id": "ui:atlases_10606",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10606~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10606~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10606~JP2~~default_public/full/2411,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2411,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10606~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10607~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Manchester map",
+            "id": "ui:atlases_10607",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10607~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10607~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10607~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10607~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10608~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2411,
+          "height": 1626,
+          "label": {
+            "title": "Delaware, Earlville map",
+            "id": "ui:atlases_10608",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10608~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10608~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10608~JP2~~default_public/full/2411,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2411,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10608~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10609~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Dyersville, Farley map",
+            "id": "ui:atlases_10609",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10609~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10609~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10609~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10609~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10610~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2411,
+          "height": 1626,
+          "label": {
+            "title": "Farley, Epworth map",
+            "id": "ui:atlases_10610",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10610~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10610~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10610~JP2~~default_public/full/2411,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2411,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10610~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10611~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2533,
+          "height": 1627,
+          "label": {
+            "title": "Centralia, Julien, Center Grove, Dubuque map",
+            "id": "ui:atlases_10611",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10611~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10611~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10611~JP2~~default_public/full/2533,1627/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2533,
+                "height": 1627,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10611~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10612~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2412,
+          "height": 1626,
+          "label": {
+            "title": "Dubuque map",
+            "id": "ui:atlases_10612",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10612~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10612~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10612~JP2~~default_public/full/2412,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2412,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10612~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10613~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2533,
+          "height": 1627,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10613",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10613~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10613~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10613~JP2~~default_public/full/2533,1627/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2533,
+                "height": 1627,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10613~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10614~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2412,
+          "height": 1626,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10614",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10614~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10614~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10614~JP2~~default_public/full/2412,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2412,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10614~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10615~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2533,
+          "height": 1626,
+          "label": {
+            "title": "Advertisements",
+            "id": "ui:atlases_10615",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10615~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10615~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10615~JP2~~default_public/full/2533,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2533,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10615~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10616~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2412,
+          "height": 1626,
+          "label": {
+            "title": "Inside back cover",
+            "id": "ui:atlases_10616",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10616~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10616~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10616~JP2~~default_public/full/2412,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2412,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10616~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2534,
+          "height": 1626,
+          "label": {
+            "title": "Back cover",
+            "id": "ui:atlases_10617",
+            "info": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public/info.json"
+          },
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public/full/2534,1626/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2534,
+                "height": 1626,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

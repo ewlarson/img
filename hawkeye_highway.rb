@@ -65,7 +65,7 @@ end
 
 ### Generate Manifest
 seed = {
-    '@id' => 'https://ewlarson.github.io/img/ui:atlases_10618/manifest',
+    '@id' => "https://ewlarson.github.io/img/#{parent_id}/manifest.json",
     'label' => parent_metadata["Title"],
     'metadata' => parent_metadata.collect{ |key, value| {label: key, value: value }}
 }
@@ -74,11 +74,14 @@ manifest = IIIF::Presentation::Manifest.new(seed)
 
 # sequences array is generated for you, but let's add a sequence object
 sequence = IIIF::Presentation::Sequence.new()
-sequence['@id'] = "https://ewlarson.github.io/img/#{parent_id}/manifest/seq/"
+sequence['@id'] = "https://ewlarson.github.io/img/#{parent_id}/manifest.json#sequence-1"
+sequence['label'] = 'Current order'
+sequence['viewingDirection'] = 'left-to-right'
 manifest.sequences << sequence
 
 # Iterate over Files > Add Canvas with Image for each File
 Dir.glob("#{parent_id}/**").each do |dir|
+  next if dir == "manifest.json"
   file_id = dir.split("/").last
   file_contents = JSON.parse(File.read(dir + "/info.json"))
 

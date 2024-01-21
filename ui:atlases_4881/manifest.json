@@ -224,924 +224,6 @@
           ]
         },
         {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2455,
-          "height": 3056,
-          "label": "County Illustrations, page 9",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public/full/2455,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2455,
-                "height": 3056,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2515,
-          "height": 3103,
-          "label": "County Illustrations, page 10",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public/full/2515,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2515,
-                "height": 3103,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2483,
-          "height": 3078,
-          "label": "History of Des Moines County, Iowa, page 11",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public/full/2483,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2483,
-                "height": 3078,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2508,
-          "height": 3077,
-          "label": "History of Des Moines County, Iowa, continued, page 12",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public/full/2508,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2508,
-                "height": 3077,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2517,
-          "height": 3066,
-          "label": "County Illustrations, page 13",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public/full/2517,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2517,
-                "height": 3066,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2554,
-          "height": 3106,
-          "label": "County Illustrations, page 14",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public/full/2554,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2554,
-                "height": 3106,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2496,
-          "height": 3088,
-          "label": "Subscribers in Des Moines County, page 15",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public/full/2496,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2496,
-                "height": 3088,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2517,
-          "height": 3092,
-          "label": "Subscribers in Des Moines County, continued, page 16",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public/full/2517,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2517,
-                "height": 3092,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2495,
-          "height": 3081,
-          "label": "County Illustrations, page 17",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public/full/2495,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2495,
-                "height": 3081,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2494,
-          "height": 3099,
-          "label": "County Illustrations, page 18",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public/full/2494,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2494,
-                "height": 3099,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2493,
-          "height": 3101,
-          "label": "Subscribers in Des Moines County, continued, page 19",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public/full/2493,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2493,
-                "height": 3101,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2519,
-          "height": 3100,
-          "label": "Subscribers in Des Moines County, continued, page 20",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public/full/2519,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2519,
-                "height": 3100,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2493,
-          "height": 3090,
-          "label": "County Illustrations, page 21",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public/full/2493,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2493,
-                "height": 3090,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2536,
-          "height": 3104,
-          "label": "County Illustrations, page 22",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public/full/2536,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2536,
-                "height": 3104,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2498,
-          "height": 3078,
-          "label": "Old Settlers of Des Moines County, page 23",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public/full/2498,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2498,
-                "height": 3078,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2519,
-          "height": 3081,
-          "label": "Old Settlers of Des Moines County, continued, page 24",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public/full/2519,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2519,
-                "height": 3081,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2466,
-          "height": 3070,
-          "label": "County Illustrations, page 25",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public/full/2466,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2466,
-                "height": 3070,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2530,
-          "height": 3101,
-          "label": "County Illustrations, page 26",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public/full/2530,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2530,
-                "height": 3101,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2509,
-          "height": 3076,
-          "label": "Old Settlers of Des Moines County, continued, page 27",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public/full/2509,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2509,
-                "height": 3076,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2523,
-          "height": 3097,
-          "label": "Old Settlers of Des Moines County, continued, page 28",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public/full/2523,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2523,
-                "height": 3097,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2613,
-          "height": 3189,
-          "label": "County Illustrations, page 29",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public/full/2613,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2613,
-                "height": 3189,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2520,
-          "height": 3088,
-          "label": "County Illustrations, page 30",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public/full/2520,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2520,
-                "height": 3088,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2510,
-          "height": 3108,
-          "label": "Old Settlers of Des Moines County, continued, page 31",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public/full/2510,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2510,
-                "height": 3108,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2498,
-          "height": 3062,
-          "label": "Old Settlers of Des Moines County, continued, page 32",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public/full/2498,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2498,
-                "height": 3062,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2499,
-          "height": 3092,
-          "label": "County Illustrations, page 33",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public/full/2499,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2499,
-                "height": 3092,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2550,
-          "height": 3092,
-          "label": "County Illustrations, page 34",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public/full/2550,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2550,
-                "height": 3092,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2500,
-          "height": 3077,
-          "label": "Old Settlers of Des Moines County, continued, page 35",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public/full/2500,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2500,
-                "height": 3077,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2524,
-          "height": 3080,
-          "label": "Old Settlers of Des Moines County, continued, page 36",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public/full/2524,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2524,
-                "height": 3080,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2503,
-          "height": 3097,
-          "label": "County Illustrations, page 37",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public/full/2503,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2503,
-                "height": 3097,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2519,
-          "height": 3060,
-          "label": "County Illustrations, page 38",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public/full/2519,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2519,
-                "height": 3060,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2492,
-          "height": 3068,
-          "label": "Old Settlers of Des Moines County, continued, page 39",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public/full/2492,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2492,
-                "height": 3068,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2500,
-          "height": 3070,
-          "label": "Subscribers in Des Moines County, continued, page 40",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public/full/2500,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2500,
-                "height": 3070,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2520,
-          "height": 3128,
-          "label": "County Illustrations, page 41",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public/full/2520,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2520,
-                "height": 3128,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2512,
-          "height": 3093,
-          "label": "County Illustrations, page 42",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public/full/2512,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2512,
-                "height": 3093,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public"
-            }
-          ]
-        },
-        {
           "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4859~JP2~~default_public",
           "@type": "sc:Canvas",
           "width": 2530,
@@ -1169,33 +251,6 @@
           ]
         },
         {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2521,
-          "height": 3080,
-          "label": "County Illustrations, page 46",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public/full/2521,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2521,
-                "height": 3080,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public"
-            }
-          ]
-        },
-        {
           "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4861~JP2~~default_public",
           "@type": "sc:Canvas",
           "width": 3828,
@@ -1219,60 +274,6 @@
                 }
               },
               "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4861~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2555,
-          "height": 3127,
-          "label": "County Illustrations, page 53",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public/full/2555,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2555,
-                "height": 3127,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2537,
-          "height": 3152,
-          "label": "County Illustrations, page 54",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public/full/2537,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2537,
-                "height": 3152,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public"
             }
           ]
         },
@@ -1331,33 +332,6 @@
           ]
         },
         {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2646,
-          "height": 3199,
-          "label": "County Illustrations, page 62",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public/full/2646,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2646,
-                "height": 3199,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public"
-            }
-          ]
-        },
-        {
           "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4867~JP2~~default_public",
           "@type": "sc:Canvas",
           "width": 2663,
@@ -1381,33 +355,6 @@
                 }
               },
               "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4867~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2605,
-          "height": 3189,
-          "label": "County Illustrations, page 64",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public/full/2605,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2605,
-                "height": 3189,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public"
             }
           ]
         },
@@ -1439,33 +386,6 @@
           ]
         },
         {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2675,
-          "height": 3236,
-          "label": "County Illustrations, page 70",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public/full/2675,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2675,
-                "height": 3236,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public"
-            }
-          ]
-        },
-        {
           "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4871~JP2~~default_public",
           "@type": "sc:Canvas",
           "width": 2659,
@@ -1493,33 +413,6 @@
           ]
         },
         {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2646,
-          "height": 3200,
-          "label": "County Illustrations, page 74",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public/full/2646,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2646,
-                "height": 3200,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public"
-            }
-          ]
-        },
-        {
           "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4873~JP2~~default_public",
           "@type": "sc:Canvas",
           "width": 2638,
@@ -1543,60 +436,6 @@
                 }
               },
               "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4873~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2638,
-          "height": 3211,
-          "label": "County Illustrations, page 78",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public/full/2638,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2638,
-                "height": 3211,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public"
-            }
-          ]
-        },
-        {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 3973,
-          "height": 2423,
-          "label": "Map of the City of Burlington, Des Moines Township, page 81-82",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public/full/3973,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 3973,
-                "height": 2423,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public"
             }
           ]
         },
@@ -1655,33 +494,6 @@
           ]
         },
         {
-          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public",
-          "@type": "sc:Canvas",
-          "width": 2772,
-          "height": 3378,
-          "label": "County Illustrations, page 90",
-          "images": [
-            {
-              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public/images",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public/full/2772,/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "width": 2772,
-                "height": 3378,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              },
-              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public"
-            }
-          ]
-        },
-        {
           "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4879~JP2~~default_public",
           "@type": "sc:Canvas",
           "width": 2620,
@@ -1705,6 +517,1194 @@
                 }
               },
               "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4879~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 3973,
+          "height": 2423,
+          "label": "Map of the City of Burlington, Des Moines Township, page 81-82",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public/full/3973,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3973,
+                "height": 2423,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4875~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2483,
+          "height": 3078,
+          "label": "History of Des Moines County, Iowa, page 11",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public/full/2483,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2483,
+                "height": 3078,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4827~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2508,
+          "height": 3077,
+          "label": "History of Des Moines County, Iowa, continued, page 12",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public/full/2508,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2508,
+                "height": 3077,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4828~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2498,
+          "height": 3078,
+          "label": "Old Settlers of Des Moines County, page 23",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public/full/2498,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2498,
+                "height": 3078,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4839~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2519,
+          "height": 3081,
+          "label": "Old Settlers of Des Moines County, continued, page 24",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public/full/2519,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2519,
+                "height": 3081,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4840~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2509,
+          "height": 3076,
+          "label": "Old Settlers of Des Moines County, continued, page 27",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public/full/2509,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2509,
+                "height": 3076,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4843~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2523,
+          "height": 3097,
+          "label": "Old Settlers of Des Moines County, continued, page 28",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public/full/2523,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2523,
+                "height": 3097,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4844~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2510,
+          "height": 3108,
+          "label": "Old Settlers of Des Moines County, continued, page 31",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public/full/2510,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2510,
+                "height": 3108,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4847~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2498,
+          "height": 3062,
+          "label": "Old Settlers of Des Moines County, continued, page 32",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public/full/2498,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2498,
+                "height": 3062,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4848~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2500,
+          "height": 3077,
+          "label": "Old Settlers of Des Moines County, continued, page 35",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public/full/2500,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2500,
+                "height": 3077,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4851~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2524,
+          "height": 3080,
+          "label": "Old Settlers of Des Moines County, continued, page 36",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public/full/2524,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2524,
+                "height": 3080,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4852~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2492,
+          "height": 3068,
+          "label": "Old Settlers of Des Moines County, continued, page 39",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public/full/2492,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2492,
+                "height": 3068,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4855~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2496,
+          "height": 3088,
+          "label": "Subscribers in Des Moines County, page 15",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public/full/2496,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2496,
+                "height": 3088,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4831~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2517,
+          "height": 3092,
+          "label": "Subscribers in Des Moines County, continued, page 16",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public/full/2517,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2517,
+                "height": 3092,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4832~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2493,
+          "height": 3101,
+          "label": "Subscribers in Des Moines County, continued, page 19",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public/full/2493,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2493,
+                "height": 3101,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4835~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2519,
+          "height": 3100,
+          "label": "Subscribers in Des Moines County, continued, page 20",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public/full/2519,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2519,
+                "height": 3100,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4836~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2500,
+          "height": 3070,
+          "label": "Subscribers in Des Moines County, continued, page 40",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public/full/2500,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2500,
+                "height": 3070,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4856~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2455,
+          "height": 3056,
+          "label": "County Illustrations, page 9",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public/full/2455,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2455,
+                "height": 3056,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4825~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2515,
+          "height": 3103,
+          "label": "County Illustrations, page 10",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public/full/2515,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2515,
+                "height": 3103,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4826~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2517,
+          "height": 3066,
+          "label": "County Illustrations, page 13",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public/full/2517,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2517,
+                "height": 3066,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4829~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2554,
+          "height": 3106,
+          "label": "County Illustrations, page 14",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public/full/2554,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2554,
+                "height": 3106,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4830~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2495,
+          "height": 3081,
+          "label": "County Illustrations, page 17",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public/full/2495,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2495,
+                "height": 3081,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4833~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2494,
+          "height": 3099,
+          "label": "County Illustrations, page 18",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public/full/2494,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2494,
+                "height": 3099,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4834~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2493,
+          "height": 3090,
+          "label": "County Illustrations, page 21",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public/full/2493,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2493,
+                "height": 3090,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4837~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2536,
+          "height": 3104,
+          "label": "County Illustrations, page 22",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public/full/2536,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2536,
+                "height": 3104,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4838~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2466,
+          "height": 3070,
+          "label": "County Illustrations, page 25",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public/full/2466,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2466,
+                "height": 3070,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4841~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2530,
+          "height": 3101,
+          "label": "County Illustrations, page 26",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public/full/2530,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2530,
+                "height": 3101,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4842~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2613,
+          "height": 3189,
+          "label": "County Illustrations, page 29",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public/full/2613,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2613,
+                "height": 3189,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4845~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2520,
+          "height": 3088,
+          "label": "County Illustrations, page 30",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public/full/2520,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2520,
+                "height": 3088,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4846~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2499,
+          "height": 3092,
+          "label": "County Illustrations, page 33",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public/full/2499,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2499,
+                "height": 3092,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4849~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2550,
+          "height": 3092,
+          "label": "County Illustrations, page 34",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public/full/2550,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2550,
+                "height": 3092,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4850~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2503,
+          "height": 3097,
+          "label": "County Illustrations, page 37",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public/full/2503,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2503,
+                "height": 3097,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4853~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2519,
+          "height": 3060,
+          "label": "County Illustrations, page 38",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public/full/2519,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2519,
+                "height": 3060,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4854~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2520,
+          "height": 3128,
+          "label": "County Illustrations, page 41",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public/full/2520,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2520,
+                "height": 3128,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4857~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2512,
+          "height": 3093,
+          "label": "County Illustrations, page 42",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public/full/2512,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2512,
+                "height": 3093,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4858~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2521,
+          "height": 3080,
+          "label": "County Illustrations, page 46",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public/full/2521,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2521,
+                "height": 3080,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4860~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2555,
+          "height": 3127,
+          "label": "County Illustrations, page 53",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public/full/2555,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2555,
+                "height": 3127,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4862~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2537,
+          "height": 3152,
+          "label": "County Illustrations, page 54",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public/full/2537,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2537,
+                "height": 3152,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4863~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2646,
+          "height": 3199,
+          "label": "County Illustrations, page 62",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public/full/2646,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2646,
+                "height": 3199,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4866~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2605,
+          "height": 3189,
+          "label": "County Illustrations, page 64",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public/full/2605,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2605,
+                "height": 3189,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4868~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2675,
+          "height": 3236,
+          "label": "County Illustrations, page 70",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public/full/2675,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2675,
+                "height": 3236,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4870~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2646,
+          "height": 3200,
+          "label": "County Illustrations, page 74",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public/full/2646,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2646,
+                "height": 3200,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4872~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2638,
+          "height": 3211,
+          "label": "County Illustrations, page 78",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public/full/2638,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2638,
+                "height": 3211,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4874~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2772,
+          "height": 3378,
+          "label": "County Illustrations, page 90",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public/full/2772,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2772,
+                "height": 3378,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:atlases_4878~JP2~~default_public"
             }
           ]
         },

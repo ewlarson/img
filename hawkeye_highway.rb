@@ -14,7 +14,10 @@ end
 ## Doc
 
 # @TODO: hardcoded; need to pass object identifier arg
-parent_id = "ui:atlases_10618"
+# Hawkeye Highway
+# parent_id = "ui:atlases_10618"
+parent_id = "ui:testiadep_1760"
+
 doc = Nokogiri::HTML(URI.open("https://digital.lib.uiowa.edu/islandora/object/#{parent_id}"))
 
 ### Parent Metadata

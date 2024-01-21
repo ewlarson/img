@@ -1,0 +1,132 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ewlarson.github.io/img/ui:testiadep_1760/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Acreage in pasture: percent of effective acreage in pasture 1932",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Acreage in pasture: percent of effective acreage in pasture 1932"
+    },
+    {
+      "label": "Creator",
+      "value": "Iowa. State Planning Board. Committee on Land Utilization"
+    },
+    {
+      "label": "Publisher",
+      "value": "Iowa. State Planning Board"
+    },
+    {
+      "label": "Description",
+      "value": "Negative. \"Effective acreage = total farm land leass land in forest, waste, buildings, roads, and feed lots.\" \"Iowa state plan.\" \"Project 1030.\" \"1030-30.\""
+    },
+    {
+      "label": "Subject: Time",
+      "value": "1930-1940"
+    },
+    {
+      "label": "Country",
+      "value": "United States"
+    },
+    {
+      "label": "State",
+      "value": "Iowa"
+    },
+    {
+      "label": "Archival Collection",
+      "value": "Iowa State Planning Board Maps"
+    },
+    {
+      "label": "Physical Description",
+      "value": "1 map : black line ; 83 x 113 cm"
+    },
+    {
+      "label": "Host institution",
+      "value": "University of Northern Iowa"
+    },
+    {
+      "label": "Rights Management",
+      "value": "Material in the public domain. No restrictions on use."
+    },
+    {
+      "label": "Contact Information",
+      "value": "Contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/"
+    },
+    {
+      "label": "Item Type (AAT)",
+      "value": "maps (documents)"
+    },
+    {
+      "label": "Item Type (IMT)",
+      "value": "jp2"
+    },
+    {
+      "label": "Identifier",
+      "value": "663976187; index.cpd\nMAPG4151_J67_1932_I6"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://ewlarson.github.io/img/ui:testiadep_1760/manifest.json#sequence-1",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1758~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 13405,
+          "height": 9877,
+          "label": "MapG4151_J671932_i6A",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1758~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1758~JP2~~default_public/full/13405,9877/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 13405,
+                "height": 9877,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1758~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1758~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1759~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 13393,
+          "height": 9875,
+          "label": "MapG4151_J671932_i6B",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1759~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1759~JP2~~default_public/full/13393,9875/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 13393,
+                "height": 9875,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1759~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1759~JP2~~default_public"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

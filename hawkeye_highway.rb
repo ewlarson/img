@@ -104,11 +104,14 @@ Dir.glob("#{parent_id}/**").each do |dir|
 
   service = IIIF::Presentation::Resource.new('@context' => 'http://iiif.io/api/image/2/context.json', 'profile' => 'http://iiif.io/api/image/2/level2.json', '@id' => file_contents["@id"])
 
+  # Image 
   image = IIIF::Presentation::ImageResource.new()
+  
   # Example
   # https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public/full/2534,1626/0/default.jpg
-  image['@id'] = "https://digital.lib.uiowa.edu/iiif/2/#{file_id}~JP2~~default_public/full/5000,/0/default.jpg"
   # image['@id'] = "http://images.exampl.com/loris2/my-image/full/#{canvas.width},#{canvas.height}/0/default.jpg"
+  
+  image['@id'] = "https://digital.lib.uiowa.edu/iiif/2/#{file_id}~JP2~~default_public/full/5000,/0/default.jpg"
   image.format = "image/jpeg"
   image.width = canvas.width
   image.height = canvas.height
@@ -130,5 +133,27 @@ Dir.glob("#{parent_id}/**").each do |dir|
 
   manifest.sequences.first.canvases << canvas
 end
+
+# Write Manifest
+File.write("./#{parent_id}/manifest.json", manifest.to_json(pretty: true))
+
+# Write Clover IIIF Viewer
+clover_html = "
+<html>
+  <head>
+    <title>Clover IIIF - Web Component</title>
+    <meta charset=\"UTF-8\" />
+  </head>
+  <body>
+    <script src=\"https://www.unpkg.com/@samvera/clover-iiif@latest/dist/web-components/index.umd.js\"></script>
+ 
+    <clover-viewer
+      id=\"https://ewlarson.github.io/img/#{parent_id}/manifest.json\"
+    />
+  </body>
+</html>
+"
+File.write("./#{parent_id}/index.html", clover_html)
+
 
 puts manifest.to_json(pretty: true)

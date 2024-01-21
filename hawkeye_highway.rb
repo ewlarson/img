@@ -5,6 +5,14 @@ require "down"
 require "pathname"
 require "json"
 
+def img_scale(img_width)
+  if img_width > 5000
+    5000
+  else
+    img_width
+  end
+end
+
 def extract_id(identifier)
   identifier.split('/').last
 end
@@ -124,7 +132,7 @@ objects.each do |obj|
     # https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public/full/2534,1626/0/default.jpg
     # image['@id'] = "http://images.exampl.com/loris2/my-image/full/#{canvas.width},#{canvas.height}/0/default.jpg"
     
-    image['@id'] = "https://digital.lib.uiowa.edu/iiif/2/#{file_id}~JP2~~default_public/full/5000,/0/default.jpg"
+    image['@id'] = "https://digital.lib.uiowa.edu/iiif/2/#{file_id}~JP2~~default_public/full/#{img_scale(canvas.width)},/0/default.jpg"
     image.format = "image/jpeg"
     image.width = canvas.width
     image.height = canvas.height

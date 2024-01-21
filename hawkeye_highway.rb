@@ -38,7 +38,7 @@ objects = [
   "ui:atlases_10618",
   "ui:testiadep_1760",
   "ui:testiadep_977",
-
+  "ui:atlases_7852"
 ]
 
 objects.each do |obj|
@@ -63,31 +63,80 @@ objects.each do |obj|
   puts parent_metadata
 
   ### Children
+  # Two paths here: 
+  # 1. div.islandora-compound-thumb ex. https://digital.lib.uiowa.edu/islandora/object/ui:atlases_10518
+  # 2. div.islandora-solr-content ex. https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4881
+
   def extract_id(identifier)
     CGI.unescape(identifier.split('/').last)
   end
 
   children = []
-  doc.css("//div.islandora-compound-thumb/a").each do |child|
-    id = extract_id(child.attributes["href"].value)
-    children << { 
-      title: child.attributes["title"].value, 
-      id: id,
-      info: "https://digital.lib.uiowa.edu/iiif/2/#{id}~JP2~~default_public/info.json"
-    }
+
+  def compound_or_solr_path(doc)
+    if doc.css("//div.islandora-compound-thumb/a").size > 0
+      "compound"
+    elsif doc.css("//div.islandora-solr-content").size > 0
+      "solr"
+    else
+      puts "Cannot deterine path"
+    end
   end
 
-  ### Download Children info.json files
+  path = compound_or_solr_path(doc)
+  puts "Path: #{path}"
 
-  children.each_with_index do |child, index|
-    if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
-      puts "Exists - #{child[:info]}"
-    else
-      puts "Downloading - #{child[:info]}"
-      sleep(1)
-      tempfile = Down.download(child[:info])
-      FileUtils.mkdir_p("./#{parent_id}/#{child[:id]}")
-      FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
+  if path == "compound"
+    doc.css("//div.islandora-compound-thumb/a").each do |child|
+      id = extract_id(child.attributes["href"].value)
+      children << { 
+        title: child.attributes["title"].value, 
+        id: id,
+        info: "https://digital.lib.uiowa.edu/iiif/2/#{id}~JP2~~default_public/info.json"
+      }
+    end
+
+    ### Download Children info.json files
+
+    children.each_with_index do |child, index|
+      if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
+        puts "Exists - #{child[:info]}"
+      else
+        puts "Downloading - #{child[:info]}"
+        sleep(1)
+        tempfile = Down.download(child[:info])
+        FileUtils.mkdir_p("./#{parent_id}/#{child[:id]}")
+        FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
+      end
+    end
+  elsif path == "solr"
+    doc.css("//dt.solr-grid-thumb/a").each do |child|
+
+      puts "Child: #{child.attributes["href"]}"
+
+      child_page = Nokogiri::HTML(URI.open("https://digital.lib.uiowa.edu" + child.attributes["href"]))
+      child_page.css("//div.islandora-compound-thumb/a").each do |child|
+        id = extract_id(child.attributes["href"].value)
+        children << { 
+          title: child.attributes["title"].value, 
+          id: id,
+          info: "https://digital.lib.uiowa.edu/iiif/2/#{id}~JP2~~default_public/info.json"
+        }
+      end
+    end
+
+    puts children.inspect
+
+    children.each_with_index do |child, index|
+      if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
+        puts "Exists - #{child[:info]}"
+      else
+        puts "Downloading - #{child[:info]}"
+        sleep(1)
+        tempfile = Down.download(child[:info])
+        FileUtils.mkdir_p("./#{parent_id}/#{child[:id]}")
+        FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
+      end
     end
   end
 

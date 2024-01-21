@@ -6,11 +6,7 @@ require "pathname"
 require "json"
 
 def img_scale(img_width)
-  if img_width > 5000
-    5000
-  else
-    img_width
-  end
+  img_width > 5000 ? 5000 : img_width
 end
 
 def extract_id(identifier)
@@ -29,16 +25,13 @@ end
 
 # Parse UIowa Islandora Object
 ## Objects to Harvest
-
-
-# @TODO - "ui:atlases_7852" / class="solr-grid-field"
-# @TODO - "ui:atlases_4881" / class="solr-grid-field"
-
 objects = [
   "ui:atlases_10618",
   "ui:testiadep_1760",
   "ui:testiadep_977",
-  "ui:atlases_7852"
+  "ui:atlases_7852",
+  "ui:atlases_4881",
+  "ui:atlases_3916"
 ]
 
 objects.each do |obj|
@@ -124,8 +117,6 @@ objects.each do |obj|
         }
       end
     end
-
-    puts children.inspect
 
     children.each_with_index do |child, index|
       if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
@@ -233,11 +224,9 @@ objects.each do |obj|
 
   puts "Writing - index.html for #{obj}"
   File.write("./#{parent_id}/index.html", clover_html)
-  # puts manifest.to_json(pretty: true)
 end
 
 puts "Writing - project index.html"
-
 homepage_html = "
 <html>
   <head>

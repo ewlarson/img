@@ -95,6 +95,9 @@ Dir.glob("#{parent_id}/**").each do |dir|
   canvas['@id'] = file_contents["@id"]
   # ...but there are also accessors and mutators for the properties mentioned in 
   # the spec
+
+  # @TODO - Sanity check these
+  # Can return Error: "The requested pixel area exceeds the maximum threshold set in the configuration."
   canvas.width = file_contents["width"]
   canvas.height = file_contents["height"]
   canvas.label = children.detect {|c| c[:id] == file_id }[:title]
@@ -104,7 +107,7 @@ Dir.glob("#{parent_id}/**").each do |dir|
   image = IIIF::Presentation::ImageResource.new()
   # Example
   # https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public/full/2534,1626/0/default.jpg
-  image['@id'] = "https://digital.lib.uiowa.edu/iiif/2/#{file_id}~JP2~~default_public/full/#{canvas.width},#{canvas.height}/0/default.jpg"
+  image['@id'] = "https://digital.lib.uiowa.edu/iiif/2/#{file_id}~JP2~~default_public/full/5000,/0/default.jpg"
   # image['@id'] = "http://images.exampl.com/loris2/my-image/full/#{canvas.width},#{canvas.height}/0/default.jpg"
   image.format = "image/jpeg"
   image.width = canvas.width

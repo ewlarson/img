@@ -12,9 +12,9 @@ end
 def write_line(obj_id)
   "<li>
     #{obj_id}: 
-    <a href=\"/#{obj_id}/manifest.json\">Manifest</a>
+    <a href=\"/img/#{obj_id}/manifest.json\">Manifest</a>
     |
-    <a href=\"/#{obj_id}/index.html\">Index</a>
+    <a href=\"/img/#{obj_id}/index.html\">Index</a>
   </li>
   "
 end

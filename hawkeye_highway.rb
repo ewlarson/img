@@ -32,7 +32,8 @@ end
 
 objects = [
   "ui:atlases_10618",
-  "ui:testiadep_1760"
+  "ui:testiadep_1760",
+  "ui:testiadep_977"
 ]
 
 objects.each do |obj|

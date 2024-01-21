@@ -30,10 +30,15 @@ end
 # Parse UIowa Islandora Object
 ## Objects to Harvest
 
+
+# @TODO - "ui:atlases_7852" / class="solr-grid-field"
+# @TODO - "ui:atlases_4881" / class="solr-grid-field"
+
 objects = [
   "ui:atlases_10618",
   "ui:testiadep_1760",
-  "ui:testiadep_977"
+  "ui:testiadep_977",
+
 ]
 
 objects.each do |obj|

@@ -26,7 +26,13 @@ end
 # Parse UIowa Islandora Object
 ## Objects to Harvest
 objects = [
-  "ui:testiadep_1517"
+  "ui:atlases_3916",
+  "ui:atlases_4881",
+  "ui:atlases_7852",
+  "ui:atlases_10618",
+  "ui:testiadep_977",
+  "ui:testiadep_1517",
+  "ui:testiadep_1760"
 ]
 
 objects.each do |obj|
@@ -97,7 +103,6 @@ objects.each do |obj|
       recursively_harvest_children(children, next_page)
     end
 
-    puts children.inspect
     children
   end
 
@@ -129,11 +134,9 @@ objects.each do |obj|
     end
 
     download_children_info_json_files(parent_id, children)
+
   elsif path == "solr"
     doc.css("//dt.solr-grid-thumb/a").each do |child|
-
-      puts "Child: #{child.attributes["href"]}"
-
       child_page = Nokogiri::HTML(URI.open("https://digital.lib.uiowa.edu" + child.attributes["href"]))
       child_page.css("//div.islandora-compound-thumb/a").each do |child|
         id = extract_id(child.attributes["href"].value)
@@ -146,14 +149,11 @@ objects.each do |obj|
     end
 
     download_children_info_json_files(parent_id, children)
+    
   elsif path == "bookreader"
     page = Nokogiri::HTML(URI.open("https://digital.lib.uiowa.edu/islandora/object/" + parent_id + "/pages"))
-    puts page.inspect
 
     page.css("//dt.islandora-object-thumb/a").each do |child|
-
-      puts "Child: #{child.attributes["href"]}"
-
       id = extract_id(child.attributes["href"].value)
       children << { 
         title: child.attributes["title"].value, 

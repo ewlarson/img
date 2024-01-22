@@ -24,11 +24,13 @@ def write_line(obj_id)
 end
 
 # Parse UIowa Islandora Object
+
 ## Objects to Harvest
-#  "ui:atlases_3916",
+# "ui:atlases_3916",
 # "ui:atlases_4881",
 # "ui:atlases_7852",
 # "ui:atlases_10618",
+# "ui:atlases_12489",
 # "ui:sheetmaps_43",
 # "ui:testiadep_977",
 # "ui:testiadep_1517",
@@ -39,6 +41,7 @@ objects = [
   "ui:atlases_4881",
   "ui:atlases_7852",
   "ui:atlases_10618",
+  "ui:atlases_12489",
   "ui:sheetmaps_43",
   "ui:testiadep_977",
   "ui:testiadep_1517",

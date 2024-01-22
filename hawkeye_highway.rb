@@ -59,9 +59,46 @@ objects.each do |obj|
   # BookReader
   # - Need to parse: Drupal.settings.islandoraInternetArchiveBookReader.pages
 
-
   def extract_id(identifier)
     CGI.unescape(identifier.split('/').last)
+  end
+
+  ### Download Children info.json files
+  def download_children_info_json_files(parent_id, children)
+    children.each_with_index do |child, index|
+      if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
+        puts "Exists - #{child[:info]}"
+      else
+        puts "Downloading - #{child[:info]}"
+        sleep(1)
+        tempfile = Down.download(child[:info])
+        FileUtils.mkdir_p("./#{parent_id}/#{child[:id]}")
+        FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
+      end
+    end
+  end
+
+  ### Recursively harvest children
+  def recursively_harvest_children(children, page)
+    page = Nokogiri::HTML(URI.open("https://digital.lib.uiowa.edu/" + page ))
+
+    page.css("//dt.islandora-object-thumb/a").each do |child|
+      id = extract_id(child.attributes["href"].value)
+      children << { 
+        title: child.attributes["title"].value, 
+        id: id,
+        info: "https://digital.lib.uiowa.edu/iiif/2/#{id}~JP2~~default_public/info.json"
+      }
+    end
+
+    # Recursively harvest children
+    if page.css("//li.pager-next/a").size > 0
+      next_page = page.css("//li.pager-next/a").first.attributes["href"].value
+      recursively_harvest_children(children, next_page)
+    end
+
+    puts children.inspect
+    children
   end
 
   children = []
@@ -91,19 +128,7 @@ objects.each do |obj|
       }
     end
 
-    ### Download Children info.json files
-
-    children.each_with_index do |child, index|
-      if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
-        puts "Exists - #{child[:info]}"
-      else
-        puts "Downloading - #{child[:info]}"
-        sleep(1)
-        tempfile = Down.download(child[:info])
-        FileUtils.mkdir_p("./#{parent_id}/#{child[:id]}")
-        FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
-      end
-    end
+    download_children_info_json_files(parent_id, children)
   elsif path == "solr"
     doc.css("//dt.solr-grid-thumb/a").each do |child|
 
@@ -120,19 +145,8 @@ objects.each do |obj|
       end
     end
 
-    children.each_with_index do |child, index|
-      if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
-        puts "Exists - #{child[:info]}"
-      else
-        puts "Downloading - #{child[:info]}"
-        sleep(1)
-        tempfile = Down.download(child[:info])
-        FileUtils.mkdir_p("./#{parent_id}/#{child[:id]}")
-        FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
-      end
-    end
+    download_children_info_json_files(parent_id, children)
   elsif path == "bookreader"
-    puts "bookreader path here"
     page = Nokogiri::HTML(URI.open("https://digital.lib.uiowa.edu/islandora/object/" + parent_id + "/pages"))
     puts page.inspect
 
@@ -148,19 +162,14 @@ objects.each do |obj|
       }
     end
 
-    ### Download Children info.json files
-
-    children.each_with_index do |child, index|
-      if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
-        puts "Exists - #{child[:info]}"
-      else
-        puts "Downloading - #{child[:info]}"
-        sleep(1)
-        tempfile = Down.download(child[:info])
-        FileUtils.mkdir_p("./#{parent_id}/#{child[:id]}")
-        FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
-      end
+    # Recursively harvest children
+    if page.css("//li.pager-next/a")
+      next_page = page.css("//li.pager-next/a").first.attributes["href"].value
+      children = recursively_harvest_children(children, next_page)
     end
+
+    # Download Children info.json files
+    download_children_info_json_files(parent_id, children)
   end
 
   ### Generate Manifest

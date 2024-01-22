@@ -26,12 +26,7 @@ end
 # Parse UIowa Islandora Object
 ## Objects to Harvest
 objects = [
-  "ui:atlases_10618",
-  "ui:testiadep_1760",
-  "ui:testiadep_977",
-  "ui:atlases_7852",
-  "ui:atlases_4881",
-  "ui:atlases_3916"
+  "ui:testiadep_1517"
 ]
 
 objects.each do |obj|
@@ -56,9 +51,14 @@ objects.each do |obj|
   puts parent_metadata
 
   ### Children
-  # Two paths here: 
+  # Three paths here: 
   # 1. div.islandora-compound-thumb ex. https://digital.lib.uiowa.edu/islandora/object/ui:atlases_10518
   # 2. div.islandora-solr-content ex. https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4881
+  # 3. div.islandora-internet-archive-bookreader ex. https://digital.lib.uiowa.edu/islandora/object/ui:testiadep_1517
+  # 
+  # BookReader
+  # - Need to parse: Drupal.settings.islandoraInternetArchiveBookReader.pages
+
 
   def extract_id(identifier)
     CGI.unescape(identifier.split('/').last)
@@ -66,17 +66,19 @@ objects.each do |obj|
 
   children = []
 
-  def compound_or_solr_path(doc)
+  def harvest_path(doc)
     if doc.css("//div.islandora-compound-thumb/a").size > 0
       "compound"
     elsif doc.css("//div.islandora-solr-content").size > 0
       "solr"
+    elsif doc.css("//div.islandora-internet-archive-bookreader").size > 0
+      "bookreader"
     else
       puts "Cannot deterine path"
     end
   end
 
-  path = compound_or_solr_path(doc)
+  path = harvest_path(doc)
   puts "Path: #{path}"
 
   if path == "compound"
@@ -129,6 +131,36 @@ objects.each do |obj|
         FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
       end
     end
+  elsif path == "bookreader"
+    puts "bookreader path here"
+    page = Nokogiri::HTML(URI.open("https://digital.lib.uiowa.edu/islandora/object/" + parent_id + "/pages"))
+    puts page.inspect
+
+    page.css("//dt.islandora-object-thumb/a").each do |child|
+
+      puts "Child: #{child.attributes["href"]}"
+
+      id = extract_id(child.attributes["href"].value)
+      children << { 
+        title: child.attributes["title"].value, 
+        id: id,
+        info: "https://digital.lib.uiowa.edu/iiif/2/#{id}~JP2~~default_public/info.json"
+      }
+    end
+
+    ### Download Children info.json files
+
+    children.each_with_index do |child, index|
+      if FileTest.exist?("./#{parent_id}/#{child[:id]}/info.json")
+        puts "Exists - #{child[:info]}"
+      else
+        puts "Downloading - #{child[:info]}"
+        sleep(1)
+        tempfile = Down.download(child[:info])
+        FileUtils.mkdir_p("./#{parent_id}/#{child[:id]}")
+        FileUtils.mv(tempfile.path, "./#{parent_id}/#{child[:id]}/info.json")
+      end
+    end
   end
 
   ### Generate Manifest
@@ -147,13 +179,9 @@ objects.each do |obj|
   sequence['viewingDirection'] = 'left-to-right'
   manifest.sequences << sequence
 
-  # Iterate over Files > Add Canvas with Image for each File
-  Dir.glob("#{parent_id}/**").each do |dir|
-    next if dir == "#{parent_id}/manifest.json"
-    next if dir == "#{parent_id}/index.html"
-
-    file_id = dir.split("/").last
-    file_contents = JSON.parse(File.read(dir + "/info.json"))
+  # Iterate over Children Files > Add Canvas with Image for each File
+  children.each do |child|
+    file_contents = JSON.parse(File.read("#{parent_id}/#{child[:id]}/info.json"))
 
     canvas = IIIF::Presentation::Canvas.new()
 
@@ -167,7 +195,7 @@ objects.each do |obj|
     # Can return Error: "The requested pixel area exceeds the maximum threshold set in the configuration."
     canvas.width = file_contents["width"]
     canvas.height = file_contents["height"]
-    canvas.label = children.detect {|c| c[:id] == file_id }[:title]
+    canvas.label = children.detect {|c| c[:id] == child[:id] }[:title]
 
     service = IIIF::Presentation::Resource.new('@context' => 'http://iiif.io/api/image/2/context.json', 'profile' => 'http://iiif.io/api/image/2/level2.json', '@id' => file_contents["@id"])
 
@@ -178,7 +206,7 @@ objects.each do |obj|
     # https://digital.lib.uiowa.edu/iiif/2/ui:atlases_10617~JP2~~default_public/full/2534,1626/0/default.jpg
     # image['@id'] = "http://images.exampl.com/loris2/my-image/full/#{canvas.width},#{canvas.height}/0/default.jpg"
     
-    image['@id'] = "https://digital.lib.uiowa.edu/iiif/2/#{file_id}~JP2~~default_public/full/#{img_scale(canvas.width)},/0/default.jpg"
+    image['@id'] = "https://digital.lib.uiowa.edu/iiif/2/#{child[:id]}~JP2~~default_public/full/#{img_scale(canvas.width)},/0/default.jpg"
     image.format = "image/jpeg"
     image.width = canvas.width
     image.height = canvas.height

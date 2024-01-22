@@ -25,11 +25,21 @@ end
 
 # Parse UIowa Islandora Object
 ## Objects to Harvest
+#  "ui:atlases_3916",
+# "ui:atlases_4881",
+# "ui:atlases_7852",
+# "ui:atlases_10618",
+# "ui:sheetmaps_43",
+# "ui:testiadep_977",
+# "ui:testiadep_1517",
+# "ui:testiadep_1760"
+
 objects = [
   "ui:atlases_3916",
   "ui:atlases_4881",
   "ui:atlases_7852",
   "ui:atlases_10618",
+  "ui:sheetmaps_43",
   "ui:testiadep_977",
   "ui:testiadep_1517",
   "ui:testiadep_1760"
@@ -57,13 +67,11 @@ objects.each do |obj|
   puts parent_metadata
 
   ### Children
-  # Three paths here: 
+  # Four paths here: 
   # 1. div.islandora-compound-thumb ex. https://digital.lib.uiowa.edu/islandora/object/ui:atlases_10518
   # 2. div.islandora-solr-content ex. https://digital.lib.uiowa.edu/islandora/object/ui:atlases_4881
   # 3. div.islandora-internet-archive-bookreader ex. https://digital.lib.uiowa.edu/islandora/object/ui:testiadep_1517
-  # 
-  # BookReader
-  # - Need to parse: Drupal.settings.islandoraInternetArchiveBookReader.pages
+  # 4. div.islandora-large-image-content ex. https://digital.lib.uiowa.edu/islandora/object/ui%3Asheetmaps_43
 
   def extract_id(identifier)
     CGI.unescape(identifier.split('/').last)
@@ -115,6 +123,8 @@ objects.each do |obj|
       "solr"
     elsif doc.css("//div.islandora-internet-archive-bookreader").size > 0
       "bookreader"
+    elsif doc.css("//div.islandora-large-image-content").size > 0
+      "solo"
     else
       puts "Cannot deterine path"
     end
@@ -169,6 +179,15 @@ objects.each do |obj|
     end
 
     # Download Children info.json files
+    download_children_info_json_files(parent_id, children)
+  
+  elsif path == "solo"
+    children << { 
+      title: parent_metadata["Title"],
+      id: parent_id,
+      info: "https://digital.lib.uiowa.edu/iiif/2/#{parent_id}~JP2~~default_public/info.json"
+    }
+
     download_children_info_json_files(parent_id, children)
   end
 

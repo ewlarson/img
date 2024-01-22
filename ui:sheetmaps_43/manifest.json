@@ -1,0 +1,133 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ewlarson.github.io/img/ui:sheetmaps_43/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Asher & Adams' Iowa, 1873",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Asher & Adams' Iowa, 1873"
+    },
+    {
+      "label": "Creator",
+      "value": "Asher & Adams."
+    },
+    {
+      "label": "Date Created",
+      "value": "1873"
+    },
+    {
+      "label": "Publisher",
+      "value": "Asher & Adams"
+    },
+    {
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "label": "Subject: Time",
+      "value": "1870-1880"
+    },
+    {
+      "label": "Country",
+      "value": "United States"
+    },
+    {
+      "label": "State",
+      "value": "Iowa"
+    },
+    {
+      "label": "Scale",
+      "value": "Scale [ca. 1:1,267,200]"
+    },
+    {
+      "label": "Archival Collection",
+      "value": "Iowa Historic Sheet Maps"
+    },
+    {
+      "label": "Call Number",
+      "value": "G4150 1873 .A7"
+    },
+    {
+      "label": "Physical Description",
+      "value": "1 color map"
+    },
+    {
+      "label": "Host institution",
+      "value": "University of Iowa. Libraries. Map Collection"
+    },
+    {
+      "label": "Date Digital",
+      "value": "2013-05-24"
+    },
+    {
+      "label": "Rights Management",
+      "value": "Material in the public domain. No restrictions on use."
+    },
+    {
+      "label": "Contact Information",
+      "value": "Contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/sc/location-and-hours/"
+    },
+    {
+      "label": "File name",
+      "value": "31858062318898.tif"
+    },
+    {
+      "label": "Item Type (DCMI)",
+      "value": "Still image"
+    },
+    {
+      "label": "Item Type (AAT)",
+      "value": "maps (documents)"
+    },
+    {
+      "label": "Item Type (Local)",
+      "value": "State maps"
+    },
+    {
+      "label": "Item Type (IMT)",
+      "value": "jp2"
+    },
+    {
+      "label": "Barcode",
+      "value": "31858062318898"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://ewlarson.github.io/img/ui:sheetmaps_43/manifest.json#sequence-1",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_43~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 14525,
+          "height": 10532,
+          "label": "Asher & Adams' Iowa, 1873",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_43~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_43~JP2~~default_public/full/5000,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 14525,
+                "height": 10532,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_43~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:sheetmaps_43~JP2~~default_public"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

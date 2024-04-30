@@ -1,0 +1,69 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://33f48133-ac7d-4f86-9fe4-d4e238d0d307",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://d36f59b8-4e37-45e7-a416-78319bb30137",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://2e80530d-11bb-4d0e-b6f8-70a3a535c83b",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 8999,
+					"width": 7780,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a8034dd5-faa4-4a49-9414-6e63d473722e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ewlarson.github.io/img/test_iiif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ewlarson.github.io/img/test_iiif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 8999,
+								"width": 7780
+							},
+							"on": "http://2e80530d-11bb-4d0e-b6f8-70a3a535c83b"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

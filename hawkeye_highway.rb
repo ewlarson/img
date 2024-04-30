@@ -33,6 +33,7 @@ end
 # "ui:atlases_12489",
 # "ui:sheetmaps_43",
 # "ui:testiadep_977",
+# "ui:testiadep_1402",
 # "ui:testiadep_1517",
 # "ui:testiadep_1760"
 
@@ -44,6 +45,7 @@ objects = [
   "ui:atlases_12489",
   "ui:sheetmaps_43",
   "ui:testiadep_977",
+  "ui:testiadep_1402",
   "ui:testiadep_1517",
   "ui:testiadep_1760"
 ]

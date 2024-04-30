@@ -1,0 +1,953 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ewlarson.github.io/img/ui:testiadep_1402/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Business Survey of Northwest Iowa",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Business Survey of Northwest Iowa"
+    },
+    {
+      "label": "Creator",
+      "value": "Iowa. State Planning Board. Committee on Business and Industry"
+    },
+    {
+      "label": "Publisher",
+      "value": "Iowa. State Planning Board"
+    },
+    {
+      "label": "Subject: Time",
+      "value": "1930-1940"
+    },
+    {
+      "label": "Country",
+      "value": "United States"
+    },
+    {
+      "label": "State",
+      "value": "Iowa"
+    },
+    {
+      "label": "Physical Description",
+      "value": "15 leaves : illustrations ; 29 cm"
+    },
+    {
+      "label": "Rights Management",
+      "value": "Material in the public domain. No restrictions on use."
+    },
+    {
+      "label": "Contact Information",
+      "value": "Contact the University of Iowa Libraries Map Collection: http://www.lib.uiowa.edu/maps/"
+    },
+    {
+      "label": "Item Type (AAT)",
+      "value": "official reports"
+    },
+    {
+      "label": "Item Type (IMT)",
+      "value": "jpeg"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://ewlarson.github.io/img/ui:testiadep_1402/manifest.json#sequence-1",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1369~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2542,
+          "height": 3361,
+          "label": "Front cover",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1369~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1369~JP2~~default_public/full/2542,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2542,
+                "height": 3361,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1369~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1369~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1370~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2493,
+          "height": 3355,
+          "label": "Page 01",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1370~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1370~JP2~~default_public/full/2493,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2493,
+                "height": 3355,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1370~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1370~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1371~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2444,
+          "height": 3339,
+          "label": "Page 02",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1371~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1371~JP2~~default_public/full/2444,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2444,
+                "height": 3339,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1371~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1371~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1372~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2431,
+          "height": 3344,
+          "label": "Page 02a",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1372~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1372~JP2~~default_public/full/2431,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2431,
+                "height": 3344,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1372~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1372~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1373~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2446,
+          "height": 3338,
+          "label": "Page 02b",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1373~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1373~JP2~~default_public/full/2446,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2446,
+                "height": 3338,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1373~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1373~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1374~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2452,
+          "height": 3330,
+          "label": "Page 02c",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1374~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1374~JP2~~default_public/full/2452,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2452,
+                "height": 3330,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1374~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1374~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1375~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2439,
+          "height": 3338,
+          "label": "Page 02d",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1375~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1375~JP2~~default_public/full/2439,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2439,
+                "height": 3338,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1375~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1375~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1376~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2418,
+          "height": 3331,
+          "label": "Page 02e",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1376~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1376~JP2~~default_public/full/2418,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2418,
+                "height": 3331,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1376~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1376~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1377~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2459,
+          "height": 3349,
+          "label": "Page 03",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1377~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1377~JP2~~default_public/full/2459,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2459,
+                "height": 3349,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1377~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1377~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1378~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2451,
+          "height": 3347,
+          "label": "Page 03a",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1378~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1378~JP2~~default_public/full/2451,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2451,
+                "height": 3347,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1378~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1378~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1379~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 3354,
+          "label": "Page 03b",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1379~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1379~JP2~~default_public/full/2441,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 3354,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1379~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1379~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1380~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2445,
+          "height": 3342,
+          "label": "Page 04",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1380~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1380~JP2~~default_public/full/2445,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2445,
+                "height": 3342,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1380~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1380~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1381~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2445,
+          "height": 3348,
+          "label": "Page 05",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1381~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1381~JP2~~default_public/full/2445,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2445,
+                "height": 3348,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1381~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1381~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1382~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2421,
+          "height": 3310,
+          "label": "Page 05a",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1382~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1382~JP2~~default_public/full/2421,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2421,
+                "height": 3310,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1382~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1382~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1383~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2491,
+          "height": 3370,
+          "label": "Page 06",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1383~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1383~JP2~~default_public/full/2491,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2491,
+                "height": 3370,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1383~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1383~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1384~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2434,
+          "height": 3334,
+          "label": "Page 06a",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1384~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1384~JP2~~default_public/full/2434,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2434,
+                "height": 3334,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1384~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1384~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1385~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2438,
+          "height": 3331,
+          "label": "Page 06b",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1385~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1385~JP2~~default_public/full/2438,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2438,
+                "height": 3331,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1385~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1385~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1386~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 3345,
+          "label": "Page 06c",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1386~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1386~JP2~~default_public/full/2441,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 3345,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1386~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1386~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1387~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2742,
+          "height": 3361,
+          "label": "Page 07",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1387~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1387~JP2~~default_public/full/2742,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2742,
+                "height": 3361,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1387~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1387~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1388~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2437,
+          "height": 3336,
+          "label": "Page 07a",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1388~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1388~JP2~~default_public/full/2437,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2437,
+                "height": 3336,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1388~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1388~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1389~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2461,
+          "height": 3343,
+          "label": "Page 07b",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1389~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1389~JP2~~default_public/full/2461,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2461,
+                "height": 3343,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1389~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1389~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1390~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2422,
+          "height": 3331,
+          "label": "Page 08",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1390~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1390~JP2~~default_public/full/2422,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2422,
+                "height": 3331,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1390~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1390~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1391~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2430,
+          "height": 3337,
+          "label": "Page 09",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1391~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1391~JP2~~default_public/full/2430,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2430,
+                "height": 3337,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1391~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1391~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1392~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2456,
+          "height": 3353,
+          "label": "Page 10",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1392~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1392~JP2~~default_public/full/2456,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2456,
+                "height": 3353,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1392~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1392~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1393~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2448,
+          "height": 3345,
+          "label": "Page 11",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1393~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1393~JP2~~default_public/full/2448,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2448,
+                "height": 3345,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1393~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1393~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1394~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2441,
+          "height": 3342,
+          "label": "Page 12",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1394~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1394~JP2~~default_public/full/2441,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2441,
+                "height": 3342,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1394~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1394~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1395~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2426,
+          "height": 3331,
+          "label": "Page 12a",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1395~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1395~JP2~~default_public/full/2426,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2426,
+                "height": 3331,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1395~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1395~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1396~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2450,
+          "height": 3335,
+          "label": "Page 12b",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1396~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1396~JP2~~default_public/full/2450,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2450,
+                "height": 3335,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1396~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1396~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1397~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2462,
+          "height": 3349,
+          "label": "Page 12c",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1397~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1397~JP2~~default_public/full/2462,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2462,
+                "height": 3349,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1397~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1397~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1398~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2446,
+          "height": 3343,
+          "label": "Page 13",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1398~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1398~JP2~~default_public/full/2446,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2446,
+                "height": 3343,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1398~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1398~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1399~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2446,
+          "height": 3343,
+          "label": "Page 13a",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1399~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1399~JP2~~default_public/full/2446,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2446,
+                "height": 3343,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1399~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1399~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1400~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2458,
+          "height": 3346,
+          "label": "Page 14",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1400~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1400~JP2~~default_public/full/2458,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2458,
+                "height": 3346,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1400~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1400~JP2~~default_public"
+            }
+          ]
+        },
+        {
+          "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1401~JP2~~default_public",
+          "@type": "sc:Canvas",
+          "width": 2486,
+          "height": 3340,
+          "label": "Page 14a",
+          "images": [
+            {
+              "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1401~JP2~~default_public/images",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1401~JP2~~default_public/full/2486,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2486,
+                "height": 3340,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1401~JP2~~default_public",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digital.lib.uiowa.edu/iiif/2/ui:testiadep_1401~JP2~~default_public"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
